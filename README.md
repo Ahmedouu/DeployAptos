@@ -1,5 +1,5 @@
 # DeployAptos
-How to deploy aptos mpve contract
+How to deploy aptos move contract
 
 # First Steps 
 
